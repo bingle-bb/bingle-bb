@@ -8,8 +8,8 @@ I'm Revy, but you can also call me BB — a web development student passionate a
 - ✉️ Contact me: binglebb11@gmail.com
 
 ## ✨ Projects I built with HTML & CSS:  
-  • [Online Learning Platform](https://github.com/revy/online-learning-platform)  
-  • [Screensip Café Website](https://github.com/revy/screensip-cafe)  
+  • [Online Learning Platform](https://github.com/bingle-bb/CreaNova-Academy)  
+  • [Café Website](https://github.com/revy/screensip-cafe)  
   • [Travel Website](https://github.com/revy/travel-website)  
   (including navigation menus and form designs)
   
