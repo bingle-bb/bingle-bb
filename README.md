@@ -15,7 +15,7 @@ I'm Revy, but you can also call me BB — a web development student passionate a
   
 ## 🚀 Featured Projects
 
-- **[Portfolio Website](https://github.com/revy/portfolio)** — Showcasing my personal projects and learning journey
+- **[Portfolio Website](https://github.com/bingle-bb/BB-PORTFOLIO)** — Showcasing my personal projects and learning journey
 - **GreenDelight (Coming Soon!)** — A vegan lifestyle website I'm building
 
 Thanks a lot for visiting my profile! Let's keep growing together. 🚀
