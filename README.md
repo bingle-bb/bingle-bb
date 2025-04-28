@@ -9,7 +9,7 @@ I'm Revy, but you can also call me BB — a web development student passionate a
 
 ## ✨ Projects I built with HTML & CSS:  
   • [Online Learning Platform](https://github.com/bingle-bb/CreaNova-Academy)  
-  • [Café Website](https://github.com/revy/screensip-cafe)  
+  • [Café Website](https://github.com/bingle-bb/Serene-Sip)  
   • [Travel Website](https://github.com/revy/travel-website)  
   (including navigation menus and form designs)
   
